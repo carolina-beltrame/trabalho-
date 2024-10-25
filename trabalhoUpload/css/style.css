@@ -1,0 +1,11 @@
+body{
+    margin: 50px;
+    background-color: #ffcc99;
+}
+.conteudo{
+    background-color: #d49556;
+    h2{
+        color: red;
+        text-align: center;
+    }
+}
